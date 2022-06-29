@@ -12,7 +12,7 @@ Este projeto consome uma _API_ criada com `PHP`. Siga os passos para rodar o _ba
 
 ## Como rodar localmente
 
-O Projeto (apenas o front-end) está hospedado em [Galeria](https://galeriafetapi.vercel.app) - Mesmo na núvem, o projeto consome um back-end local, portanto ele deve ser configurado, siga os passos em [Galeria - Back-end](https://github.com/Francisco-Fetapi/crud-galeria) para o configurar.
+O Projeto (apenas o front-end) está hospedado em [Galeria](https://galeria-fetapi.vercel.app) - Mesmo na núvem, o projeto consome um back-end local, portanto ele deve ser configurado, siga os passos em [Galeria - Back-end](https://github.com/Francisco-Fetapi/crud-galeria) para o configurar.
 <br />
 Para acessar localmente em **ambiente de desenvolvimento** basta realizar as instruções que se seguem:
 
