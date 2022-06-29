@@ -9,7 +9,7 @@ Este projeto foi desenvolvido com `React` e `Material-UI` em _2021_. Na época e
 ![2](https://user-images.githubusercontent.com/74926014/176375685-ab06c1b2-dfbc-4d09-ae9a-a4b403d9c8c8.PNG)
 
 
-Este projeto consome uma _API_ criada com `PHP`. Siga os passos para rodar o _back-end localmente_ [clicando aqui](#)
+Este projeto consome uma _API_ criada com `PHP`. Siga os passos para rodar o _back-end localmente_ [clicando aqui](https://github.com/Francisco-Fetapi/crud-galeria)
 
 ## Como rodar localmente
 
@@ -47,4 +47,4 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no
 
 ##
 
-Este projeto necessita de um back-end configurado localmente para funcionar devidamente, siga os passos para configurar o back-end [clicando aqui](#)
+Este projeto necessita de um back-end configurado localmente para funcionar devidamente, siga os passos para configurar o back-end [clicando aqui](https://github.com/Francisco-Fetapi/crud-galeria)
