@@ -1,4 +1,11 @@
 # Galeria - Front-End
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/galeria-react/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/galeria-react?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/galeria-react"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/galeria-react/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/galeria-react?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/galeria-react/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/galeria-react?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/galeria-react"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/galeria-react?style=plastic"></a>
+</p>
 
 Este projeto foi desenvolvido com `React` e `Material-UI` em _2021_. Na época eu criei o máximo de projetos possiveis para consolidar os conhecimentos em `React` e este foi mais um desses projetos. Ele oferta as seguintes funcionalidades:
 
