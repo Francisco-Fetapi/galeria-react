@@ -11,9 +11,10 @@ Este projeto foi desenvolvido com `React` e `Material-UI` em _2021_. Na época e
 
 1. Upload de imagens.
 2. CRUD de imagens.
+3. Light e Dark mode.
 
-![1](https://user-images.githubusercontent.com/74926014/176375650-b6e95cc0-8037-41cb-95df-72f3a17b01fb.PNG)
-![2](https://user-images.githubusercontent.com/74926014/176375685-ab06c1b2-dfbc-4d09-ae9a-a4b403d9c8c8.PNG)
+![galeria-2](https://user-images.githubusercontent.com/74926014/180442177-d90f4a5a-91e5-4e93-ad4b-2d0d11a19fa8.gif)
+
 
 Este projeto consome uma _API_ criada com `PHP`. Siga os passos para rodar o _back-end localmente_ [clicando aqui](https://github.com/Francisco-Fetapi/crud-galeria)
 
